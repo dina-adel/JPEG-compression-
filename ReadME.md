@@ -2,7 +2,7 @@
 *Undergraduate Information Theory Course*
 
 This project is an implementation of the DCT-based JPEG image Compression. 
-To compress an image using the JEPG algorithm, we implemented the DCT algorithm,
+To do the compression, we implemented the DCT algorithm,
 quantization, run length encoding/decoding and 
 huffman encoder/decoder from scratch and used them.
 
