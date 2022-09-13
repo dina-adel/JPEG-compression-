@@ -3,7 +3,7 @@
 
 This project is an implementation of the DCT-based JPEG image Compression. 
 To do the compression, we implemented the DCT algorithm,
-quantization, run length encoding/decoding and 
+quantization, run length encoding/decoding, and 
 huffman encoder/decoder from scratch and used them.
 
 ### Sample result
