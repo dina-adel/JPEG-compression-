@@ -1,5 +1,6 @@
 # Image JPEG Compression
-*Undergraduate Information Theory Course*
+*Undergraduate Information Theory Course* <br>
+*Project Partner: [Asmaa Shaban](https://github.com/Asmaa-S)*
 
 This project is an implementation of the DCT-based JPEG image Compression. 
 To do the compression, we implemented the DCT algorithm,
